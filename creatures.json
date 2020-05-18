@@ -98,8 +98,9 @@
 	},
 	"astrocetus":{
 		"name_t":{
-			"zh":"虚空鲸"
-		}
+			"zh":"虚空鲸",
+			"ru":"Астроцетус",
+		},
 	},
 	"attackdrone":{
 		"name_t":{
@@ -161,7 +162,7 @@
 	"bloodstalker":{
 		"name_t":{
 			"zh":"血蛛"
-		}
+		},
 	},
 	"brontosaurus":{
 		"name_t":{
